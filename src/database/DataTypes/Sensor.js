@@ -86,6 +86,7 @@ export class Sensor extends Realm.Object {
   }
 }
 
+// dummy commit
 Sensor.schema = {
   name: 'Sensor',
   primaryKey: 'id',
